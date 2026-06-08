@@ -3,7 +3,7 @@
 > **Master SQL with an interactive, mobile-first learning companion**
 
 
-> **🖇️ Link :-** https://sql-practice-mobile-playground.onrender.com
+> **🖇️ Link :-** https://sql-playground-mobile.onrender.com
 
 A cutting-edge SQL learning platform built for the modern developer. Practice complex queries, optimize your database skills, and become a SQL expert right from your mobile device.
 
